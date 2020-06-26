@@ -19,7 +19,7 @@ class Config(ConfigParser):
     num_channel = 1
     hidden_size = 256
     dropout = 0.5
-    epochs = 10
+    epochs = 5
     lr = 5e-4
 
 
